@@ -143,4 +143,4 @@ class Sub extends Proxy {}
 
 ## 作者其它文章链接
 
-[用vue3公开的思路从0实现最简化的vue](https://github.com/zzz945/write-vue3-from-scratch)
+[用vue3公开的思路从0实现最简化的vue](https://juejin.im/post/5cbc7a06f265da03587bfad0)

@@ -33,7 +33,8 @@ const child = new Child('xiao ming', 'lao ming') // 7.输出：Person Child
 
 /**
 * 8.在Child类的实例上调用Person类的的方法
-* js引擎会walk on prototype chain, 依次在Child.prototype -> Person.prototype（是Child.prototype.prototype，见5）上找搜索，最终在Person.prototype上找到showName方法后完成调用
+* js引擎会walk on prototype chain, 依次在Child.prototype -> Person.prototype（是Child.prototype.prototype，见5）上搜索，
+* 最终在Person.prototype上找到showName方法后完成调用
 */
 child.showName() // 输出：xiao ming
 ```

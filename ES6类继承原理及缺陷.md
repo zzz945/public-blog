@@ -1,4 +1,4 @@
-## ES5用prototype实现继承
+## ES5如何用prototype实现继承
 ```js
 // 1.Person类的构造函数
 function Person (name) {

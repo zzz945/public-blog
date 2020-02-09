@@ -1,32 +1,59 @@
-# Resume 2019
+# Resume ~ updated in Feburary,2020
 
-## Introduction
-My name is Yan and I am a Full-Stack engineer from China with 8 years working experience. I worked in big technology companies like <a href="https://www.didiglobal.com/">Didi</a> and <a href="https://www.vipkid.com/?vk_fromcode=US">Vipkid</a>. In my recent job in Didi, I am titled senior full-stack engineer in charge of a project called "time machine" which is a useful tool(website) for our product managers to analyze user behavior and for our engineers to trace problems. In that project, I am not only the engineer who develops both the frontend and backend, but also the one who designs the user interface. In frontend, I am experienced in vue framework and I believe I will adapt quickly if react is prefered by your team. In backend, I am experienced in nodejs and sql and I am using koa which is a light weight framework to build api. If your team are using different frameworks or techniques, I do not think it is a big deal because I am good at learning new things. Now, I am looking for a job in America and I will appreciate it if you could provide me a opportunity and be my visa sponser. 
+## Self Intro
+My name is Yan. I have 9 years working experience, within which I have 2 years embeded software developing experience, 2 years frontend developing experience and 2 years full stack developing experience. In recent one year, I am also a project leader. However, I  once lost my direction soon after I graduated and I started learning frontend technique by myself in 2015 and I found a job after one year. Since then I concentrated on frontend and expanded my knowlodge along the way. For example: 
+
+1. Backend technique: I keep learning backend tech and skills in my work, such as sql. I became a fullstack engineer in 2 years.
+2. English ability: I insist on reading english articles, reading technical documents and remembering vocabulary every day. Recently, I got 85 scores in TOEFL test.
+3. Writing skill: I love to improve my writing skills. For example, I write down experiences and solutions aquired in my work and shared them with my colleages. Then, I collect their feedbacks to find out things I did not express clearly. After that I will think about how to improve it.
+4. Communication skill: I would use the oppotunities of meetings to enhance my communication skills. For example, I would try to explain an idea or suggestion in the aspects of the background of the issue, what the problem is, what is the solution and the plan to apply the solution.
+
+
+I learned focus the hard way and I will definitely focus on web techique. I also hope I could be the leader of a large project or the leader of a whole frontend team in the near future. That is why I keep expanding my knowlodge and skills in effort.
+
+## Job I want
+Senior full stack engineer
 
 ## Personal information
 
 <img style="float: right;" width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
-- Name: Daiyan Zhang (you can call me yan)
-- Basic Information: male/1988/China
-- Title: Senior Full-Stack Engineer
-- Work Experience: 7 years
-- github: https://github.com/zzz945
-- Education: Bachelor/Jinan University(https://english.jnu.edu.cn)/Electronic Information Engineering
-- Hobbies: hiking/movies/foreign language
+- Name: Yan/male/1988/China/Bachelor/[Jinan University](https://english.jnu.edu.cn)/Electronic Information Engineering
+- Work Experience: 9 years, within which 6 years software development
+- Hobbies: travel, movie
+- Github: https://github.com/zzz945
 
-## Contact information
+## Blog
 
-- Email: zhangdaiyan@gmail.com
+English：https://medium.com/@zhangdaiyan
+Chinese：https://juejin.im/user/5bf622cef265da615c58e51b/posts
 
 ## Work Experience
 
-| Company | website | Start Time | End Time | Department | Title |
-| -----| ---- | ---- | ---- | ---- | ---- |
-| Didi | https://www.didiglobal.com | October, 2018 | - | Didi Food | Senior Full-Stack Engineer | 
-| Vipkid | https://www.vipkid.com/?vk_fromcode=US | June, 2016 | October, 2018 | Lingobus | Senior Front-End Engineer |
-| Freelancer | _ | July, 2014 | June, 2016 | Home | Front-End Engineer |
-| Actions Technology | http://www.actions-semi.com/en/index.aspx | July, 2011 | July, 2014 | Firmware 2 | Embedded Software Engineer |
+| Company | Start Time | End Time | Department | Title |
+| ----- | ---- | ---- | ---- | ---- |
+| [Didi](https://www.didiglobal.com) | October, 2018 | - | Didi Food | Senior full stack engineer | 
+| [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | June, 2016 | October, 2018 | Lingobus | Senior frontend engineer |
+| Freelancer | July, 2015 | June, 2016 | Home | Frontend engineer |
+| [Actions Technology](http://www.actions-semi.com/en/index.aspx) | July, 2011 | July, 2013 | Firmware 2 | Embedded software engineer |
+
+## My job in Didi
+I am responsible for needs assessment, solution design and implementation of tool system, which is a subsystem of MIS(management information system) of Didi food, including search engine evaluation tool and micro user behavior analysis tool, etc.
+
+### Didi food time machine project
+I spent 70% of my time on this project, so I want to describe it in detail. I will just call the project time machine.
+
+#### Backgound and goals
+Two problem that we face as an international product team is:<br>
+1. The distance between our product team and the users is so far that the cost fo money and time to know our users well is too high.
+2. The difference of culture and language between our product team and the users is so huge that it requires our team members to have high-level ability.
+
+In order to reduce the cost of analyse our user, drawing close the distance between our produce team and our users, we have been developing a user behavior analysis tool called time machine.
+1. Time machine could help 『product managers』 to find out user unfriendly aspects of our product, like ux and strategy.
+2. Time machine could help 『developer』to trace bad cases and fix bugs by providing the context of the problem. We know that the questions 『developer』most often ask is what the user had done before he ran into the problem.
+
+##### Brief Product Features
+1. 
 
 ## Areas of expertise
 

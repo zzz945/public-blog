@@ -1,7 +1,7 @@
 # Resume ~ updated in Feburary,2020
 
 ## Self-introduction
-My name is Yan. I have 9 years of working experience, including 2 years of embedded software development experience, 2 years of front-end development experience, 2 years of web full stack development experience, and the most recent year as project leader. My experience is not flat. I once experienced the trough of life when I did n’t have a direction. In 2015, I taught myself web technology to achieve a career change. Later, I learned lessons and focused on the front-end and expanded technical capabilities and enhanced my soft power. For example:
+My name is Yan. I have 9 years of working experience, including 2 years of embedded software development experience, 2 years of front-end development experience, 2 years of web full stack development experience, and the most recent year as project leader. My experience is not flat. I once lost direction and experienced the trough of life. In 2015, I started learning web technology by myself. After one year of hard working, I found a job of front-end development and achieved a career change. I learned lessons from my previous failure and focused on front-end, expanded technical capabilities and enhanced my soft power. For example:
 1. Back-end technology: Continuously accumulate back-end technical capabilities in the work, learn SQL, and realize the role change from front-end to full stack.
 2. English ability: Persistently reading English articles, English technical documents, and memorizing words every day at work and in life. Recently, I got 85 points in my first TOEFL test.
 3. Writing ability: Persist in writing skills. Write down experiences and solutions aquired from work and share it with my colleagues. Then, collect their feedbacks to improve my writing ability.
@@ -43,7 +43,7 @@ Chinese：https://juejin.im/user/5bf622cef265da615c58e51b/posts
 | [Actions Technology](http://www.actions-semi.com/en/index.aspx) | July, 2011 | July, 2013 | Firmware 2 | Embedded software engineer |
 
 ## Work at Didi
-Responsible for the needs assessment, solution design, implementation of the internal tool system of Didi Takeaway's overseas projects, including database tools, search engine evaluation tools, and micro-user analysis tools.
+Responsible for the needs assessment, solution design, implementation of the internal tool system of Didi Food's overseas projects, including database tools, search engine evaluation tools, and micro-user analysis tools.
 
 ### Didi Food Time Machine Project
 This project occupies 70% of the usual work energy, so I would describe this project for short.
@@ -54,7 +54,7 @@ The pain in internationalization projects <br>
 2. Language and cultural differences between R & D team and user is so huge that understanding user have high requirements for team capabilities
 
 In order to reduce the cost of understanding users and allow each role of the team to get close to users conveniently, we have developed a user micro-behavior analysis product “Didi Food Time Machine”: <br>
-1. Help "product manager" and other roles understand users better, increase cognition, discover problems and improve user experience in interactions, strategies, and services
+1. Help "product manager" and other roles understand users better, increase cognition, discover problems and improve user experience in interactions, strategies, and services.
 2. Help "R & D team" trace badcase and provide the context of the problem.  We know that the most frequently asked question by "R & D" is what the user had done before he ran into the problem.
 
 ##### Product Features Overview
@@ -78,10 +78,10 @@ Solution overview of user behavior display<br>
 1. Data layer: The data comes from the event tracking and api logs of the Didi food ios/android app. After processing, it is stored in druid and elastic search database.
 2. Timeline display: Time-series event tracking data and back-end api logs are displayed user-friendly in time sequence. We also developed a management tool which we can use to configure event data display rules through UI, and an engine parses the rule to render automaticly, reducing the development workload a lot.
 
-#### Didi Takeaway Search Engine Evaluation Platform
+#### Didi Food Search Engine Evaluation Platform
 
-##### Background and target
-Didi Food currently mainly have business abroad. The language differences made it more difficult for R & D to optimize the results of users searching for food and stores. Therefore, we have developed a search engine evaluation platform to be used by foreign local operating teams, who could give more professional assessment on the search results of hot words in different regions to give feedback to the search engine team for strategy optimization.
+##### Background and Goals
+Didi Food currently mainly have business abroad. The language differences made it more difficult for R & D to optimize the  searching results for food and stores. Therefore, we have developed a search engine evaluation platform to be used by foreign local operating teams, who could give more professional assessment on the search results of hot words in different regions to give feedback to the search engine team for strategy optimization.
 
 ##### Product Features Overview
 The search engine team regularly collects the top 100 hot words and search results in each region, and assigns them to foreign local operating teams to evaluate, and then optimizes search strategies based on the evaluation results.
@@ -92,7 +92,7 @@ The search engine team regularly collects the top 100 hot words and search resul
 
 ### Work at vipkid
 
-Responsible for the development, iteration and maintenance of Lingobus web application (pc + mobile). Lingobus is an online Chinese learning website for kids, with users all around the world.  I am responsible for the optimization of the project architecture, the development of core business logic, such as the registration and login process (phone/email/WeChat/facebook), libraries, word cards, etc.
+Responsible for the development, iteration and maintenance of Lingobus web application (pc + mobile). Lingobus is an online Chinese learning website for kids, with users all around the world.  I am responsible for the optimization of the project architecture, the development of core business logic, such as the registration and login(phone/email/WeChat/facebook), libraries, word cards, etc.
   
 During the project, I paid great attention to accumulating reusable components and solutions, and produced documents and demos. https://github.com/lingobus/mpa-starter is a universal scaffolding for multi-page web applications, and contains solutions to the following issues:
   1. Internationalization
@@ -102,7 +102,7 @@ During the project, I paid great attention to accumulating reusable components a
   5. Login and registration
   6. prerender
   7. Add/del/mod/view solution
-In addition, I also led the development of the pug webpack plugin that the project depends on: https://github.com/lingobus/pug-webpack-plugin
+In addition, I also developed the pug webpack plugin that the project depends on: https://github.com/lingobus/pug-webpack-plugin
 
 ## Open source project
  

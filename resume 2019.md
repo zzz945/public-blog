@@ -72,7 +72,7 @@ Main technology stack: <br>
 1. Front end: vue
 2. Server: nodejs, koa, mysql
 3. Data layer: hive, druid, elastic search
-<img width = "950" alt = "Screenshot 2020-02-08 2 12 39" src = "https://user-images.githubusercontent.com/21496977/74080340-0c3ed300-4a7e-11ea-8d41-95e38d63885b .png ">
+<img width="950" alt="Screenshot 2020-02-08 2 12 39" src="https://user-images.githubusercontent.com/21496977/74080340-0c3ed300-4a7e-11ea-8d41-95e38d63885b.png ">
 
 Solution overview of user behavior display<br>
 1. Data layer: The data comes from the event tracking and api logs of the Didi food ios/android app. After processing, it is stored in druid and elastic search database.

@@ -87,7 +87,7 @@ Solution overview of user behavior display<br>
 #### Koa common component library and scaffolding
 
 ##### Background and Goals
-We have some back-end nodejs projects, but they all fight on their own. The architecture, code style, and solutions to the same type of problems are not uniform. This has caused CR difficulties, high cost of learn and maintain. In order to solve the above problems, I took the lead in creating a public component library based on Koa and our company's internal micro-services, and planned to unify technology stack for all nodejs projects in the business line.
+We have some back-end nodejs projects, but they all fought on their own. The architecture, code style, and solutions to the same type of problems are not uniform. This has caused CR difficulties, high cost of learn and maintain. In order to solve the above problems, I took the lead in creating a public component library based on Koa and our company's internal micro-services, and planned to unify technology stack for all nodejs projects in the business line.
 
 ##### Functional Overview
 1. Login util

@@ -82,7 +82,7 @@ Solution overview of user behavior display<br>
 1. Data layer: The data comes from the event tracking and api logs of the Didi food ios/android app. After processing, it is stored in druid and elastic search database.
 2. Timeline display: Time-series event tracking data and back-end api logs are displayed user-friendly in time sequence. We also developed a management tool which we can use to configure event data display rules through UI, and an engine parses the rule to render automaticly, reducing the development workload a lot.
 
-#### koa public component library and scaffolding
+#### Koa common component library and scaffolding
 
 ##### Background and Goals
 We have some back-end nodejs projects, but they all fight on their own. The architecture, code style, and solutions to the same type of problems are not uniform. This has caused CR difficulties, high cost of learn and maintain. In order to solve the above problems, I took the lead in creating a public component library based on Koa and our company's internal micro-services, and planned to unify technology stack for all nodejs projects in the business line.

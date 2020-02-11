@@ -26,14 +26,14 @@ I am currently a full stack engineer of Didi's food project team, and I am the h
 
 ## Blog
 
-English：https://medium.com/@zhangdaiyan
+English：https://medium.com/@zhangdaiyan<br>
 Chinese：https://juejin.im/user/5bf622cef265da615c58e51b/posts
 
 ## Fields I am familiar with
 Online food, online education, and I have rich experience in MIS system (including CRM) development
 
 ## Technical advantages
-1. The front-end basic skills are solid, and my original tutorial ["write vue3 from scratch"] (https://github.com/zzz945/write-vue3-from-scratch/blob/master/doc/en-us.md) which is a little bit popular can prove. 
+1. The front-end basic skills are solid, and my original tutorial [write vue3 from scratch](https://github.com/zzz945/write-vue3-from-scratch/blob/master/doc/en-us.md) can prove, which is a little bit popular.
 2. Wide technical knowledge, proficient in nodejs and sql. I am able to think comprehensively about the both frent-end and back-end to make the best decision;
 3. Strong research ability, passion for writing. I am able to provide rational solutions for colleagues to understand and apply;
 

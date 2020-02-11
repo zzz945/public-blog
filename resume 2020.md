@@ -56,7 +56,7 @@ This project occupies 70% of the usual work energy, so I would describe this pro
 
 ##### Background and Goals
 The pain in internationalization projects <br>
-1.The distance between the R & D team and the user is so long that the cost of money and time to understand the user well is too much.
+1. The distance between the R & D team and the user is so long that the cost of money and time to understand the user well is too much.
 2. Language and cultural differences between R & D team and user is so huge that understanding user have high requirements for team capabilities
 
 In order to reduce the cost of understanding users and allow each role of the team to get close to users conveniently, we have developed a user micro-behavior analysis product “Didi Food Time Machine”: <br>

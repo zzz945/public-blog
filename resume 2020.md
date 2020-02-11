@@ -13,7 +13,7 @@ I learned focus the hard way and I will definitely focus on web technology in th
 Senior full stack engineer
 
 ## Why I am looking for a job
-I am currently a full stack engineer of Didi's takeaway project team, and I am the head of the R & D of the internal tool system. I am satisfied with the current work content and prospects. The reason for my job application is that I want to experience a more free and democratic culture.
+I am currently a full stack engineer of Didi's food project team, and I am the head of the R & D of the internal tool system. I am satisfied with the current work content and prospects. The reason for my job application is that I want to experience a more free and democratic culture.
 
 ## Personal information
 

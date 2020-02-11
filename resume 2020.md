@@ -123,6 +123,7 @@ During the project, I paid great attention to accumulating reusable components a
   5. Login and registration
   6. prerender
   7. Add/del/mod/view solution
+  
 In addition, I also developed the pug webpack plugin that the project depends on: https://github.com/lingobus/pug-webpack-plugin
 
 ## Open source project

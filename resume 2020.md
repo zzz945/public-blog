@@ -23,6 +23,8 @@ I am currently a full stack engineer of Didi's food project team, and I am the h
 - Work Experience: 9 years, within which 6 years software development
 - Hobbies: travel, movie
 - Github: https://github.com/zzz945
+- Phone: (86)18504211831
+- Email: zhangdaiyan@gmail.com
 
 ## Blog
 

@@ -1,9 +1,9 @@
 # Resume ~ updated in Feburary,2020
 
 ## Self-introduction
-My name is Yan. I have 9 years of working experience, including 2 years of embedded software development experience, 2 years of front-end development experience, 2 years of web full stack development experience, and the most recent year as project leader. My experience is not flat. I once lost direction and experienced the trough of life. In 2015, I started learning web technology by myself. After one year of hard working, I found a job of front-end development and achieved a career change. I learned lessons from my previous failure and focused on front-end, expanded technical capabilities and enhanced my soft power. For example:
+My name is Yan. I have 9 years of working experience, including 2 years of embedded software development experience, 2 years of front-end development experience, 2 years of web full stack development experience, and the most recent year as project leader. My experience is not flat. I once lost direction and went through a hard time of life. In 2015, I started learning web technology by myself. After one year of hard working, I found a job as a front-end developer and made a career change successfully. After that, I learned lessons from my previous failure and focused on front-end, expanded technical capabilities and enhanced my soft power. For example:
 1. Back-end technology: Continuously accumulate back-end technical capabilities in the work, learn SQL, and realize the role change from front-end to full stack.
-2. English ability: Persistently reading English articles, English technical documents, and memorizing words every day at work and in life. Recently, I got 85 points in my first TOEFL test.
+2. English ability: Persistently reading English articles, English technical documents, and learning vocabulary every day at work and in life. Recently, I got 85 points in my first TOEFL test.
 3. Writing ability: Persist in writing skills. Write down experiences and solutions aquired from work and share it with my colleagues. Then, collect their feedbacks to improve my writing ability.
 4. Communication skill: I would use the oppotunities of meetings to enhance my communication skills. For example, I would try to explain an idea or suggestion in the aspects of the background of the issue, what the problem is, what is the solution and the plan to apply the solution.
 
@@ -30,8 +30,12 @@ English：https://medium.com/@zhangdaiyan
 Chinese：https://juejin.im/user/5bf622cef265da615c58e51b/posts
 
 ## Fields I am familiar with
-1. Business: online food takeaway industry, online education industry
-2. Technical aspects: MIS system (including CRM)
+Online food, online education, and I have rich experience in MIS system (including CRM) development
+
+## Technical advantages
+1. The front-end basic skills are solid, and my original tutorial ["write vue3 from scratch"] (https://github.com/zzz945/write-vue3-from-scratch/blob/master/doc/en-us.md) which is a little bit popular can prove. 
+2. Wide technical knowledge, proficient in nodejs and sql. I am able to think comprehensively about the both frent-end and back-end to make the best decision;
+3. Strong research ability, passion for writing. I am able to provide rational solutions for colleagues to understand and apply;
 
 ## Work Experience
 

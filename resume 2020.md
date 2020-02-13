@@ -114,6 +114,7 @@ The search engine team regularly collects the top 100 hot words and search resul
 ### Work at vipkid
 
 Responsible for the development, iteration and maintenance of Lingobus web application (pc + mobile). Lingobus is an online Chinese learning website for kids, with users all around the world.  I am responsible for the optimization of the project architecture, the development of core business logic, such as the registration and login(phone/email/WeChat/facebook), libraries, word cards, etc.<br>
+
 During the project, I paid great attention to accumulating reusable components and solutions, and produced documents and demos. https://github.com/lingobus/mpa-starter is a universal scaffolding for multi-page web applications, and contains solutions to the following issues:<br>
 1. Internationalization
 2. Lazyload
@@ -122,6 +123,7 @@ During the project, I paid great attention to accumulating reusable components a
 5. Login and registration
 6. prerender
 7. Add/del/mod/view solution<br>
+
 In addition, I also developed the pug webpack plugin that the project depends on: https://github.com/lingobus/pug-webpack-plugin
 
 ## Open source project

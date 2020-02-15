@@ -126,6 +126,15 @@ During the project, I paid great attention to accumulating reusable components a
 
 In addition, I also developed the pug webpack plugin that the project depends on: https://github.com/lingobus/pug-webpack-plugin
 
+### Work at Actions Technology
+Actions technology is primarily a IC design company, but in order to better sell their IC, it provides customers with integrated solutions, including peripheral circuit design, operating system, application software, etc. 
+
+I was involved in the android operating system porting project as a junior embedded software engineer to make android run on our IC, learning and developing android hal layer software under the guidance of a senior engineer.
+
+Android hal layer software is the adaptation layer software between the android operating system and linux driver. The development of android hal layer involved in C, C++, and java language, at the same time need to be familiar with the linux operating system and linux drive framework. The modules of android framework I've been involved in are power management, wifi management, audio management, etc.
+
+During this work, I have accumulated a wealth of c, c++, and java development experience and have a deeper understanding of linux driver and android operating system. 
+
 ## Open source project
  
 ### write-vue3-from-scratch (April 2019 ~ May 2019)

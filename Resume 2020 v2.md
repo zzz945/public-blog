@@ -1,25 +1,23 @@
 # Resume ~ updated in Feburary,2020
-
-## Profile
 Daiyan Zhang/male/China
 
 <img width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
 
 
-### Education
+## Education
 Bachelor/Electronic Information Engineering/[Jinan University](https://english.jnu.edu.cn)
 
-### Contact
+## Contact
 - Phone: (86)18504211831
 - Email: zhangdaiyan@hotmail.com
 
-### Skill Set
+## Skill Set
 Foundation Skill: Html,Javascript,CSS,SQL
 Application Skills: Vue,Nodejs
 Tool Skills: Git,Webpack
 
-### Field Experience
+## Field Experience
 Data visualization,CRM
 
 ## Self-introduction

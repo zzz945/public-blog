@@ -1,8 +1,27 @@
 # Resume ~ updated in Feburary,2020
 
-## 
-skills: Frontend, nodejs, SQL, 
-CRM, data visualization, 
+## Profile
+Daiyan Zhang/male/China
+
+<img width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
+
+
+
+### Education
+Bachelor/Electronic Information Engineering/[Jinan University](https://english.jnu.edu.cn)
+
+### Contact
+- Phone: (86)18504211831
+- Email: zhangdaiyan@hotmail.com
+
+### Skill Set
+Foundation Skill: Html,Javascript,CSS,SQL
+Application Skills: Vue,Nodejs
+Tool Skills: Git,Webpack
+
+### Field Experience
+Data visualization,CRM
+
 ## Self-introduction
 My name is Yan. I have 9 years of working experience, including 2 years of embedded software development experience, 2 years of front-end development experience, 2 years of web full stack development experience, and the most recent year as project leader. My experience is not flat. I once lost direction and went through a hard time of life. In 2015, I started learning web technology by myself. After one year of hard working, I found a job as a front-end developer and made a career change successfully. After that, I learned lessons from my previous failure and focused on front-end, expanded technical capabilities and enhanced my soft power. For example:
 1. Back-end technology: Continuously accumulate back-end technical capabilities in the work, learn SQL, and realize the role change from front-end to full stack.
@@ -12,22 +31,15 @@ My name is Yan. I have 9 years of working experience, including 2 years of embed
 
 I learned focus the hard way and I will definitely focus on web technology in the future. I also hope I could be the leader of a large project or the head of the entire front-end team in the near future. That is why I keep expanding my knowlodge and skills in effort.
 
-## Job I want
-Senior full stack engineer
+## Objective
+Senior full stack engineer 
 
 ## Why I am looking for a job
 I am currently a full stack engineer of Didi's food project team, and I am the head of the R & D of the internal tool system. I am satisfied with the current work content and prospects. The reason for my job application is that I want to experience a more free and democratic culture.
 
 ## Personal information
 
-<img style="float: right;" width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
-- Name: Yan/male/1988/China/Bachelor/[Jinan University](https://english.jnu.edu.cn)/Electronic Information Engineering
-- Work Experience: 9 years, within which 6 years software development
-- Hobbies: travel, movie
-- Github: https://github.com/zzz945
-- Phone: (86)18504211831
-- Email: zhangdaiyan@gmail.com
 
 ## Blog
 

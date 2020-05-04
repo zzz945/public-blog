@@ -1,5 +1,5 @@
 # Resume
-Daiyan Zhang, Senior full stack engineer(China)
+Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 
 <img width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 

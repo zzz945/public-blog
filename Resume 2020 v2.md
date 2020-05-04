@@ -1,27 +1,21 @@
-# Resume ~ updated in Feburary,2020
-Daiyan Zhang/male/China
+# Resume
+Daiyan Zhang, Senior full stack engineer(China)
 
 <img width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
 ## Education
-Bachelor/Electronic Information Engineering/[Jinan University](https://english.jnu.edu.cn)
+Bachelor,Electronic Information Engineering,[Jinan University](https://english.jnu.edu.cn)
 
 ## Contact
 - Phone: (+86)18504211831
 - Email: zhangdaiyan@hotmail.com
+- Github: https://github.com/zzz945
 
 ## Skill Set
 - Foundation Skill: Html,Javascript,CSS,SQL
 - Application Skills: Vue,Nodejs
 - Tool Skills: Git,Webpack
 - Field Experience: Data visualization,CRM
-
-## Objective
-Senior full stack engineer 
-
-
-## Github
-https://github.com/zzz945
 
 ## Work Experience
 
@@ -33,11 +27,11 @@ https://github.com/zzz945
 
 ### Didi
 [Didi](https://www.didiglobal.com) is a leading transportation platform in China that owns more than 80% market share. I worked in the department of [Didi Food](https://didi-food.com/en-US/), which is a food ordering and delivery platform. 
-I was a full stack web engineer responsible for the development and stability of the CRM (customer relationship management) system, which includes operations management, data visualization tools, and the like. The skills involved in CRM are the following: html/css/javascript/vue/nodejs/koa/sql/mysql/hive/hadoop/elastic search/druid/git, etc. Also, I gained excellence in project development processes and methods.
+I was a full stack web engineer responsible for the development and stability of the CRM (customer relationship management) system, which includes operations management, data visualization tools, and the like. 
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US)  is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the software development of lingobus web and mobile products. The projects were based on Vue, a popular Javascript framework like React. The skills involved in the project are the following: html/css/javascript/git, etc. Due to the team's small size, there were numerous scenarios for cross-departmental communication. Therefore, I learned and gained excellence in communicating with people from different knowledge backgrounds.
+I was a front-end engineer responsible for the software development of lingobus web and mobile products. Due to the team's small size, there were numerous scenarios for cross-departmental communication. Therefore, I learned and gained excellence in communicating with people from different knowledge backgrounds.
 
 ### Actions Technology
 [Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. 

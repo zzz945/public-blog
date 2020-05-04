@@ -40,18 +40,15 @@ The Hal layer is an adaptation layer between the Linux driver and the android op
 ## Open sourced project
 ### write-vue3-from-scratch (April 2019 ~ May 2019)
 - Project URL: https://github.com/zzz945/write-vue3-from-scratch
-
-Write a simple vue from scratch
+- Description: Write a simple vue from scratch
 
 ### vue-d3-chart (February 2018 ~ present)
 - Project URL: https://github.com/zzz945/vue-d3-chart
- 
-Visual component library based on vue and d3
+- Description: Visual component library based on vue and d3
 
 ### react-native-alibc-sdk (February 2017 ~ July 2017, maintenance stopped)
-- Project URL: https://github.com/zzz945/react-native-alibc-sdk
- 
-Provide React Native interface for the Ali Baichuan ios/android SDK
+- Project: https://github.com/zzz945/react-native-alibc-sdk
+- Description: Provide React Native interface for the Ali Baichuan ios/android SDK
 
 
 

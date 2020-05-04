@@ -37,7 +37,7 @@ I was a front-end engineer responsible for the software development of lingobus 
 [Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. 
 The Hal layer is an adaptation layer between the Linux driver and the android operating system, which is written in C++. Because the Linux driver is written in C language and the android system is written in Java language, I accumulated rich experiences in C/C++, and Java language development. In addition, I gained deeper understanding of Linux driver as well as the android operating system.
 
-### Open sourced project
+## Open sourced project
  
 ### write-vue3-from-scratch (April 2019 ~ May 2019)
 

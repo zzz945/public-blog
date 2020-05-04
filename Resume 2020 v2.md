@@ -38,15 +38,15 @@ I was a front-end engineer responsible for the software development of lingobus 
 The Hal layer is an adaptation layer between the Linux driver and the android operating system, which is written in C++. Because the Linux driver is written in C language and the android system is written in Java language, I accumulated rich experiences in C/C++, and Java language development. In addition, I gained deeper understanding of Linux driver as well as the android operating system.
 
 ## Open sourced project
-### write-vue3-from-scratch (April 2019 ~ May 2019)
+### write-vue3-from-scratch
 - Project: https://github.com/zzz945/write-vue3-from-scratch
 - Description: Write a simple vue from scratch
 
-### vue-d3-chart (February 2018 ~ present)
+### vue-d3-chart
 - Project: https://github.com/zzz945/vue-d3-chart
 - Description: Visual component library based on vue and d3
 
-### react-native-alibc-sdk (February 2017 ~ July 2017, maintenance stopped)
+### react-native-alibc-sdk
 - Project: https://github.com/zzz945/react-native-alibc-sdk
 - Description: Provide React Native interface for the Ali Baichuan ios/android SDK
 

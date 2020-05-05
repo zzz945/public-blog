@@ -34,9 +34,11 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 [Didi](https://www.didiglobal.com) is a leading transportation platform in China that owns more than 80% market share. I worked in the department of [Didi Food](https://didi-food.com/en-US/), which is a food ordering and delivery platform. 
 I was a full stack web engineer responsible for the development and stability of the MIS, which includes operations management, data visualization tools, and the like. 
 
+Vue + Nodejs + SQL
+
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the MIS of lingobus. 
+I was a front-end engineer responsible for the development MIS, which includes user management, operation management, teacher management, course management, order management, and the like. 
 
 ### Actions Technology
 [Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. 
@@ -49,8 +51,8 @@ The Hal layer is an adaptation layer between the Linux driver and the android op
 
 ### vue-d3-chart
 - Project: https://github.com/zzz945/vue-d3-chart
-- Description: Visual component library based on vue and d3
+- Description: A component library based on vue and d3
 
 ### react-native-alibc-sdk
 - Project: https://github.com/zzz945/react-native-alibc-sdk
-- Description: Provide React Native interface for the Ali Baichuan ios/android SDK
+- Description: To provide React Native interface for the Ali Baichuan ios/android SDK

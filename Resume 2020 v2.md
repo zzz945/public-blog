@@ -38,7 +38,7 @@ Vue + Nodejs + SQL
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the development MIS, which includes user management, operation management, teacher management, course management, order management, and the like. 
+I was a front-end engineer responsible for the development of MIS, which includes user management, operation management, teacher management, course management, order management, and the like. 
 
 ### Actions Technology
 [Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. 

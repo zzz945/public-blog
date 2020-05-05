@@ -20,9 +20,16 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 - Foundation Skill: Html,Javascript, CSS, SQL
 - Application Skills: Vue, Nodejs
 - Tool Skills: Git, Webpack
-- Field Experience: Data Visualization, MIS(mamagement information system)
+
+## Field Experience
+| Field | Time | Department | Title | Direction |
+| ----- | ---- | ---- | ---- | ---- | 
+
+- : Data Visualization, MIS(mamagement information system), 
+
 
 ## Work Experience
+
 | Company | Time | Department | Title | Direction |
 | ----- | ---- | ---- | ---- | ---- | 
 | [Didi](https://www.didiglobal.com) | 2018 ~ Now | Didi Food | Senior full-stack engineer | MIS, Data Visualization |

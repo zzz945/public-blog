@@ -33,7 +33,7 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 [Didi](https://www.didiglobal.com) is a leading transportation platform in China that owns more than 80% market share. I worked in the department of [Didi Food](https://didi-food.com/en-US/), which is a food ordering and delivery platform. 
 I was a full stack web engineer responsible for the development and stability of the MIS, which includes operations management, data visualization tools, and the like. 
 
-#### Time Machine Project 
+#### Project: Time Machine(2019~Now)
 <img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png">
 
 ### Vipkid

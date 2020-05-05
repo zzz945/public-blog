@@ -1,9 +1,15 @@
 # Resume
-<img width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
+<img style="float: left;" width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
+
 Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
+- open mind
+- quick learner
+- logical thinking
 
 ## Education
-Bachelor,Electronic Information Engineering,[Jinan University](https://english.jnu.edu.cn)
+| Time | Degree Level | Institution | Major |
+| ----- | ---- | ---- | ---- |
+| 2007 ~ 2011 | Bachelor | [Jinan University](https://english.jnu.edu.cn) | Electronic Information Engineering | 
 
 ## Contact
 - Phone: (+86)18504211831
@@ -11,26 +17,26 @@ Bachelor,Electronic Information Engineering,[Jinan University](https://english.j
 - Github: https://github.com/zzz945
 
 ## Skill Set
-- Foundation Skill: Html,Javascript,CSS,SQL
-- Application Skills: Vue,Nodejs
-- Tool Skills: Git,Webpack
-- Field Experience: Data visualization,CRM
+- Foundation Skill: Html,Javascript, CSS, SQL
+- Application Skills: Vue, Nodejs
+- Tool Skills: Git, Webpack
+- Field Experience: Data Visualization, MIS(mamagement information system)
 
 ## Work Experience
 
-| Company | Start Time | End Time | Department | Title |
-| ----- | ---- | ---- | ---- | ---- |
-| [Didi](https://www.didiglobal.com) | 10/2018 | - | Didi Food | Senior full stack engineer | 
-| [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 06/2016 | 10/2018 | Lingobus | Senior frontend engineer |
-| [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 07/2011 | 07/2013 | Firmware | Embedded software engineer |
+| Company | Time | Department | Title | Direction |
+| ----- | ---- | ---- | ---- | ---- | 
+| [Didi](https://www.didiglobal.com) | 2018 ~ Now | Didi Food | Senior full-stack engineer | MIS, Data Visualization |
+| [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 2016 ~ 2018 | Lingobus | Senior frontend engineer | MIS | 
+| [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 2011 ~ 2013 | Firmware | Embedded software engineer | Android Framework |
 
 ### Didi
 [Didi](https://www.didiglobal.com) is a leading transportation platform in China that owns more than 80% market share. I worked in the department of [Didi Food](https://didi-food.com/en-US/), which is a food ordering and delivery platform. 
-I was a full stack web engineer responsible for the development and stability of the CRM (customer relationship management) system, which includes operations management, data visualization tools, and the like. 
+I was a full stack web engineer responsible for the development and stability of the MIS, which includes operations management, data visualization tools, and the like. 
 
 ### Vipkid
-[Vipkid](https://www.vipkid.com/?vk_fromcode=US)  is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the software development of lingobus web and mobile products. Due to the team's small size, there were numerous scenarios for cross-departmental communication. Therefore, I learned and gained excellence in communicating with people from different knowledge backgrounds.
+[Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
+I was a front-end engineer responsible for the MIS of lingobus. 
 
 ### Actions Technology
 [Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. 
@@ -48,6 +54,3 @@ The Hal layer is an adaptation layer between the Linux driver and the android op
 ### react-native-alibc-sdk
 - Project: https://github.com/zzz945/react-native-alibc-sdk
 - Description: Provide React Native interface for the Ali Baichuan ios/android SDK
-
-
-

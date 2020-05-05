@@ -34,7 +34,12 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 I was a full stack web engineer responsible for the development and stability of the MIS, which includes operations management, data visualization tools, and the like. 
 
 #### Project: Time Machine(2019~Now)
+Time Machine lets us examine individual rather than aggregate user behavior. Individual user behavior is associated with either Phone Number or User ID. Understanding individual behavior is important when you want to personalize the user experience, or when you need to gain insight into or troubleshoot a specific user experience: for example if you want to analyze the behavior of a user who has an unusually high average order value or see where a user ran into trouble with placing an order.
+
+Architecture： 
 <img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png">
+
+I am responsible for project management and the development of Browser Side and Server Side. 
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.

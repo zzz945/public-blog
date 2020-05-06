@@ -1,5 +1,5 @@
 # Resume
-<img width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
+<img style="float: right;" width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
 Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 - open mind
@@ -43,30 +43,29 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 I was a full stack web engineer responsible for the development and stability of the MIS, which includes operations management, data visualization tools, and the like. 
 
 #### Project: Time Machine(2019~Now)
-Time Machine lets us examine individual rather than aggregate user behavior. Individual user behavior is associated with either Phone Number or User ID. Understanding individual behavior is important when you want to personalize the user experience, or when you need to gain insight into or troubleshoot a specific user experience: for example if you want to analyze the behavior of a user who has an unusually high average order value or see where a user ran into trouble with placing an order.
+Time Machine lets us examine individual rather than aggregate user behavior. Understanding individual behavior is important when you want to personalize the user experience, or when you need to gain insight into or troubleshoot a specific user experience: for example if you want to analyze the behavior of a user who has an unusually high average order value or see where a user ran into trouble with placing an order.
 
 Architecture： 
 <img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png">
 
-I am responsible for project management and the development of Browser Side(based on Vue) and Server Side(based on Koa). 
+I am responsible for project management and the development of Browser Side and Server Side. (***Vue***, ***Koa***, ***SQL***)
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the development of MIS, which includes user management, operation management, teacher management, course management, order management, and the like. 
+I was a front-end engineer responsible for the development of MIS, which includes user management, operation management, teacher management, course management, order management, and the like.(***Vue***, ***Element UI***)
 
 ### Actions Technology
-[Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. 
-The Hal layer is an adaptation layer between the Linux driver and the android operating system, which is written in C++. Because the Linux driver is written in C language and the android system is written in Java language, I accumulated rich experiences in C/C++, and Java language development. In addition, I gained deeper understanding of Linux driver as well as the android operating system.
+[Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. (***C/C++***, ***Java***, ***Android***)
 
 ## Open sourced project
 ### write-vue3-from-scratch
 - Project: https://github.com/zzz945/write-vue3-from-scratch
-- Description: Write a simple vue from scratch
+- Description: Write a simple vue from scratch. (***Javascript***, ***Js Doc***, ***JTest***)
 
 ### vue-d3-chart
 - Project: https://github.com/zzz945/vue-d3-chart
-- Description: A component library based on vue and d3
+- Description: A component library based on vue and d3. (***Vue***, ***D3***, ***SVG***)
 
 ### react-native-alibc-sdk
 - Project: https://github.com/zzz945/react-native-alibc-sdk
-- Description: To provide React Native interface for the Ali Baichuan ios/android SDK
+- Description: To provide React Native interface for the Ali Baichuan ios/android SDK. (***RN***)

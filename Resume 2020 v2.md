@@ -6,15 +6,15 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 - quick learner
 - logical thinking
 
-## Education
-| Time | Degree Level | Institution | Major |
-| ----- | ---- | ---- | ---- |
-| 2007 ~ 2011 | Bachelor | [Jinan University](https://english.jnu.edu.cn) | Electronic Information Engineering | 
-
 ## Contact
 - Phone: (+86)18504211831
 - Email: zhangdaiyan@hotmail.com
 - Github: https://github.com/zzz945
+
+## Education
+| Time | Degree Level | Institution | Major |
+| ----- | ---- | ---- | ---- |
+| 2007 ~ 2011 | Bachelor | [Jinan University](https://english.jnu.edu.cn) | Electronic Information Engineering | 
 
 ## My Strength
 ### Skill Set

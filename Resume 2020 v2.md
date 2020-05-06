@@ -16,7 +16,7 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 - Email: zhangdaiyan@hotmail.com
 - Github: https://github.com/zzz945
 
-## Strength
+## My Strength
 ### Skill Set
 - Foundation Skill: Html,Javascript, CSS, SQL
 - Application Skills: Vue, Nodejs

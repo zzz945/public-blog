@@ -16,17 +16,19 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 - Email: zhangdaiyan@hotmail.com
 - Github: https://github.com/zzz945
 
-## Skill Set
+## Strength
+### Skill Set
 - Foundation Skill: Html,Javascript, CSS, SQL
 - Application Skills: Vue, Nodejs
 - Tool Skills: Git, Webpack
 
-## Field Experience
-| Field | Time | Department | Title | Direction |
-| ----- | ---- | ---- | ---- | ---- | 
+### Field Experience
+- Data Visualization
+- MIS(mamagement information system)
 
-- : Data Visualization, MIS(mamagement information system), 
-
+### Architecture Capabilities
+- Micro Frontends
+- Stability
 
 ## Work Experience
 
@@ -46,7 +48,7 @@ Time Machine lets us examine individual rather than aggregate user behavior. Ind
 Architecture： 
 <img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png">
 
-I am responsible for project management and the development of Browser Side and Server Side. 
+I am responsible for project management and the development of Browser Side(based on Vue) and Server Side(based on Koa). 
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.

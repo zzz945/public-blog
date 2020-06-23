@@ -40,16 +40,25 @@ Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 yea
 | [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 2011 ~ 2013 | Firmware | Embedded software engineer | Android Framework |
 
 ### Didi
-[Didi](https://www.didiglobal.com) is a leading transportation platform in China that owns more than 80% market share. I worked in the department of [Didi Food](https://didi-food.com/en-US/), which is a food ordering and delivery platform. 
-I was a full stack web engineer responsible for the development and stability of the MIS, which includes operations management, data visualization tools, and the like. 
 
-#### Project: Time Machine(2019~Now)
-Time Machine lets us examine individual rather than aggregate user behavior. Understanding individual behavior is important when you want to personalize the user experience, or when you need to gain insight into or troubleshoot a specific user experience: for example if you want to analyze the behavior of a user who has an unusually high average order value or see where a user ran into trouble with placing an order.
+#### Time Machine Project(2019~Now)
+Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD in analyzing problems. It Contains the following core functions:
+1. User tag system
+2. User activity chart & session sist
+3. User behavior timeline 
+4. User Portrait
+
+My role: technical leader
+1. Full stack development
+2. Interaction design
+3. Solve key problems
+
+Technical difficulties: configurable visualization of event tracking data
 
 Architecture： 
 <img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png">
 
-I am responsible for project management and the development of Browser Side and Server Side. (***Vue***, ***Koa***, ***SQL***)
+Project outcome: helped solve 17 product experience problems in 2020
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.

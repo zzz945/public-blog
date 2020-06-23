@@ -52,6 +52,7 @@ My role: technical leader
 1. Full stack development
 2. Interaction design
 3. Solve key problems
+4. Project management
 
 Technical difficulties: configurable visualization of event tracking data
 

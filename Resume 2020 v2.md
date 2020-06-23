@@ -54,16 +54,15 @@ My role: technical leader
 3. Solve key problems
 4. Project management
 
-Technical difficulties: configurable visualization of event tracking data
+Technical difficulties: configurable visualization of event tracking data 
 
 Architecture： 
-<img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png">
+<img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png"> 
 
 Project outcome: helped solve 17 product experience problems in 2020
 
 ### koa-common (common utils based on koa)
-Background goals:
-Unify the nodejs technology stack of Didi Food, improve the efficiency of development and maintenance.
+goals: Unify the nodejs technology stack of Didi Food, improve the efficiency of development and maintenance.
 
 Overview: 
 1. SSO module
@@ -75,17 +74,17 @@ Overview:
 7. Thrift module
 8. etc
 
-My role: interface design and development
+My role: interface design and development 
 
 Project highlights:
 1. jtest unit test
-2. jsdoc documentation
+2. jsdoc documentation 
 
-Project revenue: successfully used in two projects
+Project revenue: successfully used in two projects 
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the development of CRM. In my work, I insisted on accumulating reusable components and solutions.
+I was a front-end engineer responsible for the development of CRM. In my work, I insisted on accumulating reusable components and solutions. 
 
 [mpa-starter](https://github.com/lingobus/mpa-starter): A multi-page scaffolding that contains solutions to the following  problems:
 1. Internationalization

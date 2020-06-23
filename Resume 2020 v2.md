@@ -77,8 +77,8 @@ Overview:
 My role: interface design and development 
 
 Project highlights:
-1. jtest unit test
-2. jsdoc documentation 
+1. jtest for unit test
+2. jsdoc for documentation 
 
 Project outcome: successfully used in two projects 
 
@@ -91,7 +91,7 @@ I was a front-end engineer responsible for the development of CRM. In my work, I
 2. lazyload
 3. Mobile screen adaptation
 4. Login and register
-5. SEO: [pug-webpack-plugin] (https://github.com/lingobus/pug-webpack-plugin) (similar to html-webpack-plugin function, support pug's extend)
+5. SEO: [pug-webpack-plugin](https://github.com/lingobus/pug-webpack-plugin) (similar to html-webpack-plugin function, support pug's extend)
 
 ## Open sourced project
 ### write-vue3-from-scratch

@@ -1,8 +1,7 @@
 # Resume
 <img style="float: right;" width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
-Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
-- open mind
+Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 years, I am working at Didi as a full stack engineer and my annual performance is A.
 - quick learner
 - logical thinking
 
@@ -27,8 +26,10 @@ Daiyan Zhang, a senior full stack engineer(China) with 5 years experience
 - MIS(mamagement information system)
 
 ### Architecture Capabilities
-- Micro Frontends
-- Stability
+- Front-end microservice architecture
+- Nodejs service architecture
+- Mysql table structure design
+- System Stability
 
 ## Work Experience
 

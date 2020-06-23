@@ -13,7 +13,7 @@ Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 yea
 ## Education
 | Time | Degree Level | Institution | Major |
 | ----- | ---- | ---- | ---- |
-| 2007 ~ 2011 | Bachelor | [Jinan University](https://english.jnu.edu.cn) | Electronic Information Engineering | 
+| 2007 ~ 2011 | Bachelor | [Jinan University](https://english.jnu.edu.cn)(211 project) | Electronic Information Engineering | 
 
 ## My Strength
 ### Skill Set

@@ -42,7 +42,7 @@ Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 yea
 ### Didi
 
 #### Time Machine Project
-Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD in analyzing problems. It Contains the following core functions:
+Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD to solve problems. It Contains the following core functions:
 1. User tag system
 2. User activity chart & session list
 3. User behavior timeline 

@@ -35,9 +35,9 @@ Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 yea
 
 | Company | Time | Department | Title | Direction |
 | ----- | ---- | ---- | ---- | ---- | 
-| [Didi](https://www.didiglobal.com) | 2018 ~ Now | Didi Food | Senior full-stack engineer | MIS, Data Visualization |
-| [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 2016 ~ 2018 | Lingobus | Senior frontend engineer | MIS | 
-| [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 2011 ~ 2013 | Firmware | Embedded software engineer | Android Framework |
+| [Didi](https://www.didiglobal.com) | 2019-02 ~ Now | Didi Food | Senior full-stack engineer | MIS, Data Visualization |
+| [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 2017-04 ~ 2019-02 | Lingobus | Senior frontend engineer | MIS | 
+| [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 2011-07 ~ 2013-04 | Firmware | Embedded software engineer | Android Framework |
 
 ### Didi
 

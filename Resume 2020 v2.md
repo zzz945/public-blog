@@ -80,7 +80,7 @@ Project highlights:
 1. jtest unit test
 2. jsdoc documentation 
 
-Project revenue: successfully used in two projects 
+Project outcome: successfully used in two projects 
 
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.

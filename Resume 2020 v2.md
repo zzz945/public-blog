@@ -41,10 +41,10 @@ Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 yea
 
 ### Didi
 
-#### Time Machine Project(2019~Now)
+#### Time Machine Project
 Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD in analyzing problems. It Contains the following core functions:
 1. User tag system
-2. User activity chart & session sist
+2. User activity chart & session list
 3. User behavior timeline 
 4. User Portrait
 
@@ -60,12 +60,38 @@ Architecture：
 
 Project outcome: helped solve 17 product experience problems in 2020
 
+### koa-common (common utils based on koa)
+Background goals:
+Unify the nodejs technology stack of Didi Food, improve the efficiency of development and maintenance.
+
+Overview: 
+1. SSO module
+2. Request module
+3. ORM module
+4. Params verification module
+5. Log module
+6. Disf module
+7. Thrift module
+8. etc
+
+My role: interface design and development
+
+Project highlights:
+1. jtest unit test
+2. jsdoc documentation
+
+Project revenue: successfully used in two projects
+
 ### Vipkid
 [Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the development of MIS, which includes user management, operation management, teacher management, course management, order management, and the like.(***Vue***, ***Element UI***)
+I was a front-end engineer responsible for the development of CRM. In my work, I insisted on accumulating reusable components and solutions.
 
-### Actions Technology
-[Actions technology](http://www.actions-semi.com/en/index.aspx) is an IC design company. I worked in the embedded software department with the android operating system porting project team, responsible for the android Hal layer software development. (***C/C++***, ***Java***, ***Android***)
+[mpa-starter](https://github.com/lingobus/mpa-starter): A multi-page scaffolding that contains solutions to the following  problems:
+1. Internationalization
+2. lazyload
+3. Mobile screen adaptation
+4. Login and register
+5. SEO: [pug-webpack-plugin] (https://github.com/lingobus/pug-webpack-plugin) (similar to html-webpack-plugin function, support pug's extend)
 
 ## Open sourced project
 ### write-vue3-from-scratch

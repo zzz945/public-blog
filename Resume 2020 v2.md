@@ -31,7 +31,7 @@ Daiyan Zhang, a senior web engineer with more than 7 years experience. I began t
 | ----- | ---- | ---- | ---- | ---- | 
 | [Didi](https://www.didiglobal.com) | 2019-02 ~ 2021-07 | Didi | Senior full-stack engineer | MIS, Knowledge Base |
 | [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 2016-04 ~ 2019-02 | Lingobus | Frontend Engineer | MIS | 
-| [ET Tech] | 2014-01 ~ 2016-01 | Product Development | Frontend Engineer | WeChat Mini Program | 
+| ET Tech | 2014-01 ~ 2016-01 | Product Development | Frontend Engineer | WeChat Mini Program | 
 | [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 2011-07 ~ 2013-04 | Firmware | Embedded software engineer | Android Framework |
 
 ### Didi

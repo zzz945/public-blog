@@ -1,31 +1,25 @@
 # Resume
 <img style="float: right;" width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
-Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 years, I am working at Didi as a full stack engineer and my annual performance is A.
-- quick learner
-- logical thinking
+Daiyan Zhang, a senior web engineer with more than 7 years experience. I began to study Data Science master degree since Jan 2021 as an international student(F1) at California State University, Easy Bay. My most recent job is senior full stack engineer at DIDI company and my annual performance was A(the top performance) in both 2019 and 2020. I am now look for an opportunity to work in 2022 summer with CPT.
 
 ## Contact
-- Phone: (+86)18504211831
+- Phone: (+1)5103315517
 - Email: zhangdaiyan@hotmail.com
 - Github: https://github.com/zzz945
 
 ## Education
 | Time | Degree Level | Institution | Major |
 | ----- | ---- | ---- | ---- |
+| 2021 ~ Now | Master | [California State Univercity, East Bay](https://www.csueastbay.edu/) | Data Science| 
 | 2007 ~ 2011 | Bachelor | [Jinan University](https://english.jnu.edu.cn)(211 project) | Electronic Information Engineering | 
 
-## My Strength
-### Skill Set
-- Foundation Skill: Html,Javascript, CSS, SQL
-- Application Skills: Vue, Nodejs
-- Tool Skills: Git, Webpack
+## Skill Set
+- Frontend: Javascript, Html, CSS, React, Vue
+- Server side: Nodejs, GraphQL
+- Tools: Git, Webpack, R
 
-### Field Experience
-- Data Visualization
-- MIS(mamagement information system)
-
-### Architecture Capabilities
+## Architecture Capabilities
 - Front-end microservice architecture
 - Nodejs service architecture
 - Mysql table structure design
@@ -35,8 +29,9 @@ Daiyan Zhang, a senior web engineer with 5 years experience. In the last 1.5 yea
 
 | Company | Time | Department | Title | Direction |
 | ----- | ---- | ---- | ---- | ---- | 
-| [Didi](https://www.didiglobal.com) | 2019-02 ~ Now | Didi Food | Senior full-stack engineer | MIS, Data Visualization |
-| [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 2017-04 ~ 2019-02 | Lingobus | Senior frontend engineer | MIS | 
+| [Didi](https://www.didiglobal.com) | 2019-02 ~ 2021-07 | Didi | Senior full-stack engineer | MIS, Knowledge Base |
+| [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 2016-04 ~ 2019-02 | Lingobus | Frontend Engineer | MIS | 
+| [ET Tech] | 2014-01 ~ 2016-01 | Product Development | Frontend Engineer | WeChat Mini Program | 
 | [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 2011-07 ~ 2013-04 | Firmware | Embedded software engineer | Android Framework |
 
 ### Didi

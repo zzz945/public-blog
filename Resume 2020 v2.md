@@ -55,6 +55,12 @@ Architecture：
 
 #### Result
 
+- Development costs: 56pd
+- Project quality: 5 bugs in 8 months since published online
+- Degree of use: PV 2546, Pages 400+
+- Countries: 8   
+- User satisfaction: 8.4(while clipper is 7.2)
+
 #### Time Machine Project
 Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD to solve problems. It Contains the following core functions:
 1. User tag system

@@ -32,13 +32,15 @@ Daiyan Zhang, a senior web engineer with more than 7 years experience. I began t
 
 ### Knowledge Base for Clipper
 
-Didi a transportation platform like Uber. Clipper is a Customer Service Work Platform of Didi used by thousands of Customer Service staffs all around the world to handle emergencies, like complaints, traffic accidents and crimes, etc.
+Didi a transportation platform like Uber. Clipper is a Customer Service Work Platform of Didi used by thousands of Customer Service staffs all around the world to handle emergencies, like complaints, traffic accidents and crimes, etc.    
+
+Knowledge Base is like a CMS for Customer Service staffs to find relevant knowledge to handle a specific emergency and help the managers to make the knowledge safe and updated.
 
 #### Goals
 
 - Improve knowledge safety
 - Improve knowledge covering effiency
-- Improve the quality and efficiency of customer service work
+- Improve the work quality and efficiency of the customer service staffs
 
 #### Actions
 

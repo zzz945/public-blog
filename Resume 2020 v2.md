@@ -16,25 +16,43 @@ Daiyan Zhang, a senior web engineer with more than 7 years experience. I began t
 
 ## Skill Set
 - Frontend: Javascript, Html, CSS, React, Vue
-- Server side: Nodejs, GraphQL
+- Server side: Nodejs, GraphQL, Java(Spring Boot), SQL
 - Tools: Git, Webpack, R
-
-## Architecture Capabilities
-- Front-end microservice architecture
-- Nodejs service architecture
-- Mysql table structure design
-- System Stability
 
 ## Work Experience
 
 | Company | Time | Department | Title | Direction |
 | ----- | ---- | ---- | ---- | ---- | 
-| [Didi](https://www.didiglobal.com) | 2019-02 ~ 2021-07 | Didi | Senior full-stack engineer | MIS, Knowledge Base |
+| [Didi](https://www.didiglobal.com) | 2019-02 ~ 2021-07 | IBT safety platform | Senior full-stack engineer | MIS, Knowledge Base |
 | [Vipkid](https://www.vipkid.com/?vk_fromcode=US) | 2016-04 ~ 2019-02 | Lingobus | Frontend Engineer | MIS | 
 | ET Tech | 2014-01 ~ 2016-01 | Product Development | Frontend Engineer | WeChat Mini Program | 
 | [Actions Technology](http://www.actions-semi.com/en/index.aspx) | 2011-07 ~ 2013-04 | Firmware | Embedded software engineer | Android Framework |
 
-### Didi
+## Project
+
+### Knowledge Base for Clipper
+
+Didi a transportation platform like Uber. Clipper is a Customer Service Work Platform of Didi used by thousands of Customer Service staffs all around the world to handle emergencies, like complaints, traffic accidents and crimes, etc.
+
+#### Goals
+
+- Improve knowledge safety
+- Improve knowledge covering effiency
+- Improve the quality and efficiency of customer service work
+
+#### Actions
+
+- Knowledge Management
+- Knowledge Notification
+- Associate relevant knowledge with tickets
+
+UI：   
+![knowledgebase drawio](https://user-images.githubusercontent.com/21496977/147866007-9146c0ec-532e-4c2b-9731-16b333c783f5.png)
+
+Architecture：   
+![knowledgebase2 drawio](https://user-images.githubusercontent.com/21496977/147866086-e5ff0f69-516c-4a91-83d6-d08dad56ff64.png)
+
+#### Result
 
 #### Time Machine Project
 Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD to solve problems. It Contains the following core functions:

@@ -42,9 +42,8 @@ Didi a transportation platform like Uber. Clipper is a Customer Service Work Pla
 
 #### Actions
 
-- Knowledge Management
-- Knowledge Notification
-- Associate relevant knowledge with tickets
+- Knowledge Managemen & Notification: let service work staffs learn new knowledge quickly and help to keep everyone on the same page
+- Associate relevant knowledge with tickets so that our service work staffs can resolve problems more accurately and efficiently
 
 UI：   
 ![knowledgebase drawio](https://user-images.githubusercontent.com/21496977/147866007-9146c0ec-532e-4c2b-9731-16b333c783f5.png)

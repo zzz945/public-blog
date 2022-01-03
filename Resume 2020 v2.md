@@ -46,7 +46,7 @@ My roles: research for possible solutions & the final decision-making & the core
 
 #### Actions
 
-- Knowledge Managemen & Notification: let service work staffs learn new knowledge quickly and help to keep everyone on the same page
+- Knowledge Management & Notification: let service work staffs learn new knowledge quickly and help to keep everyone on the same page
 - Associate relevant knowledge with tickets so that our service work staffs can resolve problems more accurately and efficiently
 
 Architecture：   

@@ -1,12 +1,14 @@
 # Daiyan Zhang Resume 2022
 <img style="float: right;" width="120px" height="120px" src="https://user-images.githubusercontent.com/21496977/47612176-081cbb00-dab0-11e8-827c-10cd4f0bc656.jpeg">
 
-Daiyan Zhang, a senior web engineer with more than 7 years experience. I began to study Data Science master degree since Jan 2021 as an international student(F1) at California State University, Easy Bay and hopefully after that I could have a better data-driven mind-set to improve my decision-making ability in engineering. My most recent job is senior full stack engineer at [DIDI company](https://www.didiglobal.com/) and my annual performance was A(the top performance) in both 2019 and 2020. I am looking for an opportunity to work in 2022 summer with CPT.
+I am a senior web engineer with more than 7 years experience. I began to study Data Science master degree since Jan 2021 as an international student(F1) at California State University, Easy Bay and hopefully after that I could have a better data-driven mind-set to improve my decision-making ability in engineering. My most recent job is senior full stack engineer at [DIDI company](https://www.didiglobal.com/) and my annual performance was A(the top performance) in both 2019 and 2020. I am looking for an opportunity to work in 2022 summer with CPT.
 
 ## Contact
 - Phone: (+1)5103315517
 - Email: zhangdaiyan@hotmail.com
 - Github: https://github.com/zzz945
+- Linkin: https://www.linkedin.com/in/zhang-dai-yan-a8a04316b/
+
 
 ## Education
 | Time | Degree Level | Institution | Major |

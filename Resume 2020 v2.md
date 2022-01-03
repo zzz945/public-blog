@@ -17,7 +17,7 @@ Daiyan Zhang, a senior web engineer with more than 7 years experience. I began t
 ## Skill Set
 - Frontend: Javascript, Html, CSS, React, Vue
 - Server side: Nodejs, GraphQL, Java(Spring Boot), SQL
-- Tools: Git, Webpack, R
+- Tools: Git, Webpack, R, jtest, jsdoc
 
 ## Work Experience
 
@@ -30,11 +30,13 @@ Daiyan Zhang, a senior web engineer with more than 7 years experience. I began t
 
 ## Project
 
-### Knowledge Base for Clipper
+### Knowledge Base for Clipper (2020-2021)
 
 Didi a transportation platform like Uber. Clipper is a Customer Service Work Platform of Didi used by thousands of Customer Service staffs all around the world to handle emergencies, like complaints, traffic accidents and crimes, etc.    
 
-Knowledge Base is like a CMS for Customer Service staffs to find relevant knowledge to handle a specific emergency and help the managers to make the knowledge safe and updated.
+Knowledge Base is like a CMS for Customer Service staffs to find relevant knowledge to handle a specific emergency and help the managers to make the knowledge safe and updated.    
+
+My roles: research for possible solutions & the final decision-making & the core developer
 
 #### Goals
 
@@ -47,9 +49,6 @@ Knowledge Base is like a CMS for Customer Service staffs to find relevant knowle
 - Knowledge Managemen & Notification: let service work staffs learn new knowledge quickly and help to keep everyone on the same page
 - Associate relevant knowledge with tickets so that our service work staffs can resolve problems more accurately and efficiently
 
-UI：   
-![knowledgebase drawio](https://user-images.githubusercontent.com/21496977/147866007-9146c0ec-532e-4c2b-9731-16b333c783f5.png)
-
 Architecture：   
 ![knowledgebase2 drawio](https://user-images.githubusercontent.com/21496977/147866086-e5ff0f69-516c-4a91-83d6-d08dad56ff64.png)
 
@@ -61,67 +60,40 @@ Architecture：
 - Countries: 8   
 - User satisfaction: 8.4(while clipper is 7.2)
 
-#### Time Machine Project
-Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD to solve problems. It Contains the following core functions:
-1. User tag system
-2. User activity chart & session list
-3. User behavior timeline 
-4. User Portrait
+### Approval Center (2020-2021)
 
-My role: technical leader
-1. Full stack development
-2. Interaction design
-3. Solve key problems
-4. Project management
+Approval Center is developed to reduce the rist of critical operations of the custom service staffs, like passenger and driver compensation, by introducing up to 3 level review.     
 
-Technical difficulties: configurable visualization of event tracking data 
+My roles: solution research & the core developer
+
+#### Architecture
+
+![lalla drawio](https://user-images.githubusercontent.com/21496977/147895935-6b2a1e3a-09dd-4d21-b023-a543b3901b46.png)
+
+#### Time Machine Project (2019-2020)
+Time Machine is a user behavior analysis tool that assists PM and market operations users to make decisions and assists RD to solve problems.
 
 Architecture： 
 <img width="100%" src="https://user-images.githubusercontent.com/21496977/81090320-1f9ff400-8f30-11ea-83d4-9f9fa2f78b19.png"> 
 
-Project outcome: helped solve 17 product experience problems in 2020
+## Other Projects
 
-### koa-common (common utils based on koa)
-goals: Unify the nodejs technology stack of Didi Food, improve the efficiency of development and maintenance.
-
-Overview: 
-1. SSO module
-2. Request module
-3. ORM module
-4. Params verification module
-5. Log module
-6. Disf module
-7. Thrift module
-8. etc
-
-My role: interface design and development 
-
-Project highlights:
-1. jtest for unit test
-2. jsdoc for documentation 
-
-Project outcome: successfully used in two projects 
-
-### Vipkid
-[Vipkid](https://www.vipkid.com/?vk_fromcode=US) is an online education company. I worked with the [lingobus](https://www.lingobus.com/) project team. Lingobus is an online Chinese-learning platform.
-I was a front-end engineer responsible for the development of CRM. In my work, I insisted on accumulating reusable components and solutions. 
-
-[mpa-starter](https://github.com/lingobus/mpa-starter): A multi-page scaffolding that contains solutions to the following  problems:
-1. Internationalization
-2. lazyload
-3. Mobile screen adaptation
-4. Login and register
-5. SEO: [pug-webpack-plugin](https://github.com/lingobus/pug-webpack-plugin) (similar to html-webpack-plugin function, support pug's extend)
-
-## Open sourced project
-### write-vue3-from-scratch
+### write-vue3-from-scratch(Open Source)
 - Project: https://github.com/zzz945/write-vue3-from-scratch
 - Description: Write a simple vue from scratch. (***Javascript***, ***Js Doc***, ***JTest***)
 
-### vue-d3-chart
+### vue-d3-chart(Open Source)
 - Project: https://github.com/zzz945/vue-d3-chart
 - Description: A component library based on vue and d3. (***Vue***, ***D3***, ***SVG***)
 
-### react-native-alibc-sdk
+### react-native-alibc-sdk(Open Source)
 - Project: https://github.com/zzz945/react-native-alibc-sdk
 - Description: To provide React Native interface for the Ali Baichuan ios/android SDK. (***RN***)
+
+### mpa-starter
+- Project: https://github.com/lingobus/mpa-starter
+- Description: A multi-page scaffolding that contains solutions to Internationalization, lazyload, Mobile screen adaptation, SEO, etc.
+
+### pug-webpack-plugin
+- Project: https://github.com/lingobus/pug-webpack-plugin
+- Description: similar to html-webpack-plugin function, support pug's extend

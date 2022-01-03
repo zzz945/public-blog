@@ -86,6 +86,22 @@ Architecture：
 - Project: https://github.com/zzz945/vue-d3-chart
 - Description: A component library based on vue and d3. (***Vue***, ***D3***, ***SVG***)
 
+### ckeditor5-file(Open Source)
+- Project: https://github.com/zzz945/ckeditor5-file
+- Description: This package implements the file upload and insert feature for CKEditor 5.
+- 
+### ckeditor5-file(Open Source)
+- Project: https://github.com/zzz945/ckeditor5-file
+- Description: This package implements the file upload and insert feature for CKEditor 5.
+
+### leetcode-javascript(Open Source)
+- Project: https://github.com/zzz945/javascript-leetcode
+- Description: My leetcode problem solutions for Javascript with comprehensive explanation.
+
+### ckeditor5-s3-upload-adaptor(Open Source)
+- Project: https://github.com/zzz945/ckeditor5-s3-upload-adaptor
+- Description: This package implements AWS S3 upload adaptor for CKEditor 5.
+
 ### react-native-alibc-sdk(Open Source)
 - Project: https://github.com/zzz945/react-native-alibc-sdk
 - Description: To provide React Native interface for the Ali Baichuan ios/android SDK. (***RN***)

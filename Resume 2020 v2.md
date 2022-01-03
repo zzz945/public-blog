@@ -89,7 +89,7 @@ Architecture：
 ### ckeditor5-file(Open Source)
 - Project: https://github.com/zzz945/ckeditor5-file
 - Description: This package implements the file upload and insert feature for CKEditor 5.
-- 
+
 ### ckeditor5-file(Open Source)
 - Project: https://github.com/zzz945/ckeditor5-file
 - Description: This package implements the file upload and insert feature for CKEditor 5.
